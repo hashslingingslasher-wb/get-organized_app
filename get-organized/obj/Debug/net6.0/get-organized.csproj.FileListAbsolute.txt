@@ -24,3 +24,8 @@ C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\obj\Debug\net6.0
 C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\obj\Debug\net6.0\get-organized.pdb
 C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\obj\Debug\net6.0\get-organized.genruntimeconfig.cache
 C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\obj\Debug\net6.0\ref\get-organized.dll
+C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thewi\Documents\GitHub\get-organized_app\get-organized\obj\Debug\net6.0\get-organized.csproj.CopyComplete

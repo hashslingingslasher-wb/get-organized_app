@@ -6,19 +6,22 @@ namespace get_organized.Controllers
     public class GoController : Controller
     {
         // 
-        // GET: /HelloWorld/
+        // GET: /Go/(Index)
 
         public IActionResult Index()
         {
             return View();
-        }
-
-        // 
-        // GET: /HelloWorld/Welcome/ 
-
-        public string Welcome()
+        } 
+        // GET: /Go/Confirm/
+        public IActionResult Confirm()
         {
-            return "This is the Welcome action method...";
+            return View();
         }
+        //GET: /Go/Upload/
+        public IActionResult Upload()
+        {
+            return View();
+        }
+
     }
 }
