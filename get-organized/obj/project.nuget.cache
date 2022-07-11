@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecousSYC17ttpirXWqLnQOcBFrBqojo4fCW5TheOXJxcZdpWgu3s4A0jdiLe3JUvPtXy8tPv4RKyJp2aLM7qvQ==",
+  "dgSpecHash": "WUaazqBzd3K6NL9BsvY0i8eKzrlr3gpejCDD+681NhMr/2REswNJliKTn7CGQuu+KfUE4phQm+gcR1qCkJaJQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thewi\\Documents\\GitHub\\get-organized_app\\get-organized\\get-organized.csproj",
+  "projectFilePath": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\get-organized.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thewi\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.0\\microsoft.azure.cognitiveservices.vision.computervision.7.0.0.nupkg.sha512",
     "C:\\Users\\thewi\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
