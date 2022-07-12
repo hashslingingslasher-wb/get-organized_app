@@ -22,6 +22,5 @@ namespace get_organized.Controllers
         {
             return View();
         }
-
     }
 }
