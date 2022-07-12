@@ -51,9 +51,7 @@ C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\get-organized.RazorAssemblyInfo.cs
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\scopedcss\bundle\get-organized.styles.css
-C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\scopedcss\projectbundle\get-organized.bundle.scp.css
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\get-organized.csproj.CopyComplete
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\get-organized.dll
 C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\obj\Debug\net6.0\refint\get-organized.dll

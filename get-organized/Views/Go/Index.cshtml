@@ -1,19 +1,15 @@
 @{
     ViewData["Title"] = "GO Home";
+    
 }
-
+<header class=text-center>
+    <h1 class="display-5">Welcome</h1>
+</header>
     <div class="text-center">
-        <h1 class="display-5">Welcome</h1>
-        <ul class="home-menu">
-            <li class="nav-item">
-                 <a class="nav-link text-dark" asp-area="" asp-controller="Go" asp-action="Upload">Start</a>
-            </li>
-            <li class="nav-item">
-                 <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="CreateAccount">Create Account</a>
-            </li>
+        <ul class="mx-auto p-5 w-25 bg-dark text-white list-group">
+            <a class="list-group-item list-group-item-action" asp-area="" asp-controller="Go" asp-action="Upload">Start</a>
+            <a class="list-group-item list-group-item-action" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+            <a class="list-group-item list-group-item-action" asp-area="" asp-controller="Account" asp-action="CreateAccount">Create Account</a>
         </ul>
     </div>
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LcB7opDI+eYBXR7IZSlV/Dav7Xmpxr4fLWCpVhXj+VY=",
+  "Hash": "90S24/I8cAxbFHljbff/GPGoFsY6K/dRmMlh/3GsYKs=",
   "Source": "get-organized",
   "BasePath": "_content/get-organized",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\obj\\Debug\\net6.0\\scopedcss\\bundle\\get-organized.styles.css",
-      "SourceId": "get-organized",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/get-organized",
-      "RelativePath": "get-organized.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\obj\\Debug\\net6.0\\scopedcss\\bundle\\get-organized.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\get-organized.bundle.scp.css",
-      "SourceId": "get-organized",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/get-organized",
-      "RelativePath": "get-organized.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\get-organized.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\wwwroot\\css\\site.css",
       "SourceId": "get-organized",
