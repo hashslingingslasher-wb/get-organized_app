@@ -20,16 +20,29 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-area="" asp-controller="Go" asp-action="Index">Home</a>
                         </li>
+                    @if (IsSectionDefined(name: "CreateAccountNav")){
+                        @RenderSection(name: "CreateAccountNav")
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Link 2</a>
+                            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login" >Login</a>
                         </li>
+                    }                   
+                    @if (IsSectionDefined(name: "LoginNav")){
+                        @RenderSection(name: "LoginNav")
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Link 3</a>
+                            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="CreateAccount" >Create Account</a>
                         </li>
+                    }
+                    @if (IsSectionDefined(name:"StartNav")){
+                        @RenderSection(name:"StartNav")
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Go" asp-action="Upload">Quick Start</a>
+                        </li>
+                    }
                     </ul>
                 </div>
             </nav>
         }
+        
 <body>
     <div class="container mx-auto">
         <main role="main" class="pb-3">
