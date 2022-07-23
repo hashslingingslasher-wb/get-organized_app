@@ -16338,11 +16338,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\Views\\Account\\CreateAccount.cshtml",
-      "TargetPath": "Views\\Account\\CreateAccount.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\thewi\\Documents\\GitHub\\WIPs\\file-organization-app\\get-organized_app\\get-organized\\Views\\AccountData\\Delete.cshtml",
       "TargetPath": "Views\\AccountData\\Delete.cshtml",
       "FileKind": "mvc"

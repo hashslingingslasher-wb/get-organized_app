@@ -8,81 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = get_organized
 build_property.RootNamespace = get_organized
-build_property.ProjectDir = c:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\
+build_property.ProjectDir = C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized
+build_property.MSBuildProjectDirectory = C:\Users\thewi\Documents\GitHub\WIPs\file-organization-app\get-organized_app\get-organized
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Create.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudERhdGFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Delete.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudERhdGFcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Details.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudERhdGFcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Edit.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudERhdGFcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Index.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/AccountData/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudERhdGFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Account/CreateAccount.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGVBY2NvdW50LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Account/Home.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Account/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Account/Login.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Go/Confirm.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Go/Confirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29cQ29uZmlybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Go/Index.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Go/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Go/Upload.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Go/Upload.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29cVXBsb2FkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Home/Index.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Home/Privacy.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Shared/Error.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Shared/_Layout.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/_ViewImports.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/_ViewStart.cshtml]
+[C:/Users/thewi/Documents/GitHub/WIPs/file-organization-app/get-organized_app/get-organized/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
